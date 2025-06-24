@@ -1,6 +1,6 @@
 # Mariupol Evidence Project
 
-**Status**: ACTIVE - PHASE 3 (LEGAL-GRADE EVIDENCE PRODUCTION)
+**Status**: AWAITING RED TEAM REVIEW
 **Last Updated**: 2025-06-24
 
 ## 1.0 Mission Directive
@@ -24,10 +24,3 @@ Create and activate the Python virtual environment.
 ```bash
 python3 -m venv mariupol_env
 source mariupol_env/bin/activate
----
-
-## 5.0 License
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-This project is licensed under the GNU General Public License v3.0 - see the `LICENSE` file for details.
