@@ -1,0 +1,16 @@
+# Ignore the Python virtual environment folder
+mariupol_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore the output directory where generated files are stored
+output/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables file (if you create one)
+.env
